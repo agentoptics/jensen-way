@@ -68,7 +68,7 @@ Each law scores **Aligned / Fighting / Broken**.
 ```
 
 ```
-/jensen-way Our PM wants to ship a mobile app in 8 weeks. 3-person team, no mobile experience. Feasible?
+/jensen-way Our PM wants to ship a mobile app in 6 weeks. 3-person team, no mobile experience. We all have a 100$ budget per month for AI assistance. Feasible?
 ```
 
 ```
