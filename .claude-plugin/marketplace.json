@@ -1,0 +1,30 @@
+{
+  "name": "jensen-way",
+  "id": "jensen-way",
+  "owner": {
+    "name": "agentoptics"
+  },
+  "metadata": {
+    "description": "Physics-of-reality decision framework for evaluating whether to build a product, feature, or spec. Inspired by Jensen Huang's framing of Physical AI.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "jensen-way",
+      "source": "./",
+      "description": "Evaluate build/pivot/kill decisions against 6 laws of reality: demand gravity, adoption friction, competitive gravity, hard constraints, organizational inertia, and entropy.",
+      "version": "1.0.0",
+      "author": {
+        "name": "agentoptics"
+      },
+      "keywords": [
+        "decision-framework",
+        "product",
+        "strategy",
+        "jensen-huang",
+        "physical-ai"
+      ],
+      "category": "workflow"
+    }
+  ]
+}

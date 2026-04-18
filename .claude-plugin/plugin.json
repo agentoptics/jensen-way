@@ -1,0 +1,11 @@
+{
+  "name": "jensen-way",
+  "description": "Physics-of-reality decision framework for evaluating whether to build a product, feature, or spec. Produces a defensible build/pivot/kill verdict backed by evidence.",
+  "version": "1.0.0",
+  "author": {
+    "name": "agentoptics"
+  },
+  "license": "MIT",
+  "keywords": ["decision-framework", "product", "strategy", "jensen-huang", "physical-ai"],
+  "skills": ["./skills/jensen-way"]
+}
